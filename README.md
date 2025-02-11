@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=aquib-javed&label=Profile%20views&color=0e75b6&style=flat" alt="aquib-javed" />
 </p>
 
-<p align="center">🔹 AI/ML Intern at Atomcamp | Data Scientist | Full-Stack Developer</p>
+<p align="center">🔹 AI/ML Engineer | Data Scientist | Full-Stack Developer | Ex-Atomcamp</p>
+<!-- <p align="center">🔹 AI/ML Intern at Atomcamp | Data Scientist | Full-Stack Developer</p> -->
 
 ---
 
